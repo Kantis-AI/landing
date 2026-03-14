@@ -8,8 +8,8 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      posthogPublicKey: '',
-      posthogHost: 'https://us.i.posthog.com',
+      posthogPublicKey: process.env.NUXT_PUBLIC_POSTHOG_PUBLIC_KEY,
+      posthogHost: process.env.NUXT_PUBLIC_POSTHOG_HOST,
       posthogDefaults: '2026-01-30'
     }
   },
