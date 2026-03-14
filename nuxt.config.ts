@@ -4,11 +4,11 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxtjs/tailwindcss', 'nuxt-gtag'],
   gtag: {
-    id: 'G-WLGRWFCESD',
+    id: process.env.NUXT_PUBLIC_GTAG_ID,
   },
   runtimeConfig: {
     public: {
-      posthogPublicKey: 'phc_FHEhP1vajir3f22Nc4oY0WttLdu4T495t6oz0Rycfoq',
+      posthogPublicKey: '',
       posthogHost: 'https://us.i.posthog.com',
       posthogDefaults: '2026-01-30'
     }
