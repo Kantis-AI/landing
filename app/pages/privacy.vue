@@ -383,7 +383,6 @@
       Email: <strong>support@getkantis.com</strong><br>
       Web: <a href="https://getkantis.com">https://getkantis.com</a></p>
       <p>For complaints, you may also contact the UK Information Commissioner's Office (ICO) at <a href="https://ico.org.uk">https://ico.org.uk</a>.</p>
-      <p><em>[Upon incorporation, this section will be updated with the registered company name, registered address, and company number. If required, details of any appointed Data Protection Officer and/or EU Representative under Article 27 of the EU GDPR will also be added.]</em></p>
 
     </div>
   </div>
