@@ -41,7 +41,20 @@
           </div>
         </div>
 
-        <!-- Card 3: EU AI Act -->
+        <!-- Card 3: SOC 2 -->
+        <div class="bg-white border border-brand-border rounded-lg p-6 flex flex-col sm:flex-row gap-6 items-start hover:-translate-y-1 transition-transform duration-300">
+          <div class="flex-shrink-0">
+            <span class="inline-block px-3 py-1 bg-brand-mint text-brand-navy-deep text-[13px] font-sans font-medium rounded-full whitespace-nowrap">Available now</span>
+          </div>
+          <div>
+            <h3 class="font-sans font-semibold text-[20px] text-brand-navy-deep mb-2 mt-[-3px]">SOC 2</h3>
+            <p class="font-sans text-[15px] leading-[1.6] text-brand-grey-700">
+              The US standard for security and availability. Required by American enterprise buyers. Available alongside our European frameworks.
+            </p>
+          </div>
+        </div>
+
+        <!-- Card 4: EU AI Act -->
         <div class="bg-white border border-brand-border rounded-lg p-6 flex flex-col sm:flex-row gap-6 items-start opacity-80 hover:opacity-100 transition-opacity duration-300">
           <div class="flex-shrink-0">
             <span class="inline-block px-3 py-1 bg-brand-grey-50 text-brand-grey-400 text-[13px] font-sans font-medium rounded-full whitespace-nowrap">Coming soon</span>
@@ -50,19 +63,6 @@
             <h3 class="font-sans font-semibold text-[20px] text-brand-navy-deep mb-2 mt-[-3px]">EU AI Act</h3>
             <p class="font-sans text-[15px] leading-[1.6] text-brand-grey-700">
               Mandatory for high-risk AI systems from August 2026. We're building this now.
-            </p>
-          </div>
-        </div>
-
-        <!-- Card 4: ISO 42001 -->
-        <div class="bg-white border border-brand-border rounded-lg p-6 flex flex-col sm:flex-row gap-6 items-start opacity-80 hover:opacity-100 transition-opacity duration-300">
-          <div class="flex-shrink-0">
-            <span class="inline-block px-3 py-1 bg-brand-grey-50 text-brand-grey-400 text-[13px] font-sans font-medium rounded-full whitespace-nowrap">Coming soon</span>
-          </div>
-          <div>
-            <h3 class="font-sans font-semibold text-[20px] text-brand-navy-deep mb-2 mt-[-3px]">ISO 42001</h3>
-            <p class="font-sans text-[15px] leading-[1.6] text-brand-grey-700">
-              The AI management system standard. The natural complement to ISO 27001 for AI-native companies.
             </p>
           </div>
         </div>
@@ -76,9 +76,9 @@
             <span class="inline-block px-3 py-1 bg-brand-grey-50 text-brand-grey-400 text-[13px] font-sans font-medium rounded-full whitespace-nowrap">Coming soon</span>
           </div>
           <div>
-            <h3 class="font-sans font-semibold text-[20px] text-brand-navy-deep mb-2 mt-[-3px]">SOC 2</h3>
+            <h3 class="font-sans font-semibold text-[20px] text-brand-navy-deep mb-2 mt-[-3px]">ISO 42001</h3>
             <p class="font-sans text-[15px] leading-[1.6] text-brand-grey-700">
-              The US standard for security and availability. Required by American enterprise buyers. Coming alongside our European frameworks.
+              The AI management system standard. The natural complement to ISO 27001 for AI-native companies.
             </p>
           </div>
         </div>
